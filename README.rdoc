@@ -2,7 +2,7 @@
 
 These scripts and server configuration files support the online application demo at:
 
-	railsapps.fiveruns.net
+	http://railsapps.fiveruns.net
 
 The project is under development and until closer to release/usability, this repo's 
 contents will likely be interesting only to me.
